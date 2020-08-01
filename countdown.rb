@@ -9,3 +9,5 @@ end
 end
 
 countdown_with_sleep
+  sleep (1 second)
+end
