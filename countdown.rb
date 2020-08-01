@@ -8,6 +8,4 @@ end
    "HAPPY NEW YEAR!"
 end
 
-countdown_with_sleep
-  sleep (1 second)
-end
+countdown_with_sleep(1 SECOND)
