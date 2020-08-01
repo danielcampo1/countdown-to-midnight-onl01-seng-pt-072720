@@ -9,4 +9,5 @@ end
 end
 
 def countdown_with_sleep
+  sleep(10.seconds)
 end
