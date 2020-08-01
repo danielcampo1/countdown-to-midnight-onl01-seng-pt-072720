@@ -8,5 +8,3 @@ end
    "HAPPY NEW YEAR!"
 end
 
-count_with_sleep
-  
